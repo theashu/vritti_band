@@ -29,6 +29,7 @@ html {
     font-size: 75%;
   }
 }
+
 .bg-img1 {
   position: absolute;
   overflow: hidden;
@@ -72,7 +73,7 @@ html {
   color: inherit;
 }
 .v-navbar img {
-  height: 3rem;
+  height: 9rem;
 }
 .section1 {
   width: 100%;
@@ -345,6 +346,11 @@ html {
 }
 .team-image {
   position: relative;
+}
+.team-image img{
+  border-radius: 10px;
+  /* height: 23rem;
+  width: 23rem; */
 }
 .team-linkedin {
   position: absolute;
