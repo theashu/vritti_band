@@ -75,6 +75,9 @@
     .progress .primary-heading{
         top: 1rem;
     }
+    .team .team-list {
+        margin: 3rem;
+    }
     .team-item img {
     width: 80%;
     }
