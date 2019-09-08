@@ -290,9 +290,10 @@ html {
 }
 .testimonial-text {
   padding: 1.6rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   font-style: italic;
   text-align: justify;
+  font-weight: bold;
 }
 .testimonial-name {
   padding-right: 1.6rem;
