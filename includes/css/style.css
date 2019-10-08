@@ -272,8 +272,9 @@ html {
   flex-direction: row;
 }
 .collab-list img {
-  margin: 5rem;
-  height: 9rem;
+  margin: 2rem;
+  margin-top: 5rem;
+  height: 8rem;
 }
 
 .testimonial {
