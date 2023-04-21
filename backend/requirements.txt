@@ -13,4 +13,4 @@ pyparsing==2.4.5
 pytz==2019.3
 regex==2019.11.1
 soupsieve==1.9.5
-sqlparse==0.3.0
+sqlparse==0.4.4
